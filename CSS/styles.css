@@ -7,14 +7,15 @@ body{
     background-color: orange;
     margin-bottom: 30px;
     margin-top: 20px;
+    border: 2px solid blue;
 }
 .for{
     background-color: orange;
     color: skyblue;
-    width: 350px;
-    padding: 30px;
+    width: 300px;
+    padding: 25px;
     margin: auto;
-    margin-top: 7px;
-    border-radius: 10px;
-    border: 2px solid rgb(0, 0, 0);
+    margin-top: 5px;
+    border-radius: 8px;
+    border: 2px solid blue;
 }
