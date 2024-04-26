@@ -1,3 +1,20 @@
+body{
+    background-color: aqua;
+}
+
+.menu{
+    padding: 20px;
+    background-color: orange;
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
 .for{
-    text-align: center;
+    background-color: orange;
+    color: skyblue;
+    width: 350px;
+    padding: 30px;
+    margin: auto;
+    margin-top: 7px;
+    border-radius: 10px;
+    border: 2px solid rgb(0, 0, 0);
 }
